@@ -73,3 +73,5 @@
 | ----------------------- | ---------------------------------------------- |
 | DescribeScalableTargets | スケーラブルターゲットの設定を取得する         |
 | RegisterScalableTarget  | Auto Scalingのスケーラブルターゲットを登録する |
+
+## Amazon DynamoDB CloudWatch
